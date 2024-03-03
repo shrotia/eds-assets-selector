@@ -3,7 +3,7 @@
   "plugins": [
     {
       "id": "asset-library",
-      "title": "My Assets",
+      "title": "Custom Assets Selector",
       "environments": ["edit"],
       "url": "https://eds.aem-screens.net/index.html",
       "isPalette": true,
